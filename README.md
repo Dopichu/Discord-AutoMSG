@@ -1,5 +1,5 @@
 # Discord-AutoMSG
-Shitty bot that gets ratelimited in an instant.
+Shitty bot
 
 You should not copy this, no rly, don't
 
