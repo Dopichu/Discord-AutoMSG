@@ -23,7 +23,7 @@ async def on_message(message):
 
 @tasks.loop(minutes=1) #Loops code every minute
 async def test():
-    channel = client.get_channel(816422528704315446) #Channel id is you guessed it, channel id
+    channel = client.get_channel(ChannelID) #Channel id is you guessed it, channel id
     await channel.send("boobs") #The message it sends every minute"
 
 @client.event
